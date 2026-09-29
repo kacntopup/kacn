@@ -1,0 +1,10 @@
+# robots.txt
+User-agent: *
+Allow: /
+
+# 禁止爬虫抓取源码、编辑页面
+Disallow: /github.com/
+Disallow: /*?*
+
+# Sitemap 地址，替换成你自己的域名
+Sitemap: https://kacntopup.github.io/kacn/sitemap.xml
