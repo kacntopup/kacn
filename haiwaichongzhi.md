@@ -11,7 +11,7 @@ keywords: 海外充值, KACN, KA-CN, 海外充值平台
 
 先说最核心的价格问题。KA-CN 的计价规则很简单：商品本身按实时汇率换算，再加上一笔固定的小额服务费。这点和很多平台不一样，不少网站只在商品页放一个吸引人的低价，等到结算页面突然冒出一堆说不清的附加费。KA-CN 这边会把两项费用分开展示，商品页只展示基础售价，进入订单结算页，商品价款、服务费单独标明，每一笔花费写得清清楚楚，结算的时候不会临时加价，所有开销一目了然。
 
-<img style="max-width:100%;height:auto;" alt="KACN海外充值平台" src="https://github.com/user-attachments/assets/1bd295b4-0b19-4e56-ac03-f6866312e5c7" />
+<img style="max-width:100% !important;height:auto !important;display:block !important;" alt="KACN海外充值平台" src="https://github.com/user-attachments/assets/1bd295b4-0b19-4e56-ac03-f6866312e5c7" />
 
 
 这套计费规则不是只针对某一款商品，平台内绝大多数品类都沿用同一套模式。不管你是充抖音钻石、快手快币，还是[苹果充值卡](https://www.ka-cn.vip/goods/info/apple)、各类国服游戏点卡，计价逻辑统一。也就是说不是单独某一类商品才有性价比，整个平台的商品都采用这套透明定价，不用担心别的产品价格虚高。
