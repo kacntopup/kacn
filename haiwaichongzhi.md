@@ -1,5 +1,5 @@
 ---
-title: KA-CN, KA-CN 海外充值平台价格划算吗？真实平台测评
+title: KA-CN, KACN 海外充值平台价格划算吗？真实平台测评
 date: 2026-09-29
 author: KACN
 lang: zh-CN
