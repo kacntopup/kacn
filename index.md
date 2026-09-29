@@ -6,3 +6,4 @@
 - [海外用户怎么给花椒直播充值？支持哪些支付？](article1.html)
 - [海外快手快币获取省钱实用攻略](article2.html)
 - [KA-CN 快币充值评测｜KACN 平台收费规则与价格对比](kuaibi.md)
+- [KA-CN, KA-CN 海外充值平台价格划算吗？真实平台测评](haiwaichongzhi.md)
