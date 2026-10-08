@@ -8,3 +8,4 @@
 - [KA-CN 快币充值评测｜KACN 平台收费规则与价格对比](kuaibi.md)
 - [KA-CN, KACN 海外充值平台价格划算吗？真实平台测评](haiwaichongzhi.md)
 - [KA CN 安全评测 2026｜海外抖音、快手快币充值平台靠谱吗](haiwai.md)
+- [ka-cn 海外充值平台为什么都说商品划算？新手下单指南](haiwai1.md)
