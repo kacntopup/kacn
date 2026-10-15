@@ -13,3 +13,4 @@
 - [海外用户大陆抖音充值优惠避坑攻略｜怎么判断抖币折扣真假](daludouyin.md)
 - [海外 Apple 礼品卡不用账号密码能完成充值，kacn 方式靠谱吗？](apple.md)
 - [海外快币充值怎么选平台？kacn 海外充值平台](kuaishoubi.md)
+- [抖音钻石充值｜ka cn 海外抖币充值价格评测](doubi2.md)
