@@ -15,3 +15,4 @@
 - [海外快币充值怎么选平台？kacn 海外充值平台](kuaishoubi.md)
 - [抖音钻石充值｜ka cn 海外抖币充值价格评测](doubi2.md)
 - [人在海外怎么充值快手快币？地区支付限制怎么解决？](kuaibi-1.md)
+- [ka-cn｜kacn ka cn 海外充值平台｜海外华人虚拟储值平台介绍](p1-haiwai.md)
