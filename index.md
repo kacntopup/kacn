@@ -17,3 +17,4 @@
 - [人在海外怎么充值快手快币？地区支付限制怎么解决？](kuaibi-1.md)
 - [ka-cn｜kacn ka cn 海外充值平台｜海外华人虚拟储值平台介绍](p1-haiwai.md)
 - [kacn（ka-cn /ka cn）海外充值平台快币充值优惠多少？平台价格测评](p1-ceping.md)
+- [海外充值抖音有哪些靠谱渠道选择？海外华人充值避坑指南](kacn-douyin.md)
