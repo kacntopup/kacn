@@ -19,3 +19,4 @@
 - [kacn（ka-cn /ka cn）海外充值平台快币充值优惠多少？平台价格测评](p1-ceping.md)
 - [海外充值抖音有哪些靠谱渠道选择？海外华人充值避坑指南](kacn-douyin.md)
 - [海外想做 meoo 充值，哪个渠道用起来省心？ka-cn 实测体验](meoo-chongzhi.md)
+- [ka cn 跑路了吗？现在正规 kacn 平台实测](ka-cn-top.md)
