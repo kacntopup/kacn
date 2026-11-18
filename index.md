@@ -21,3 +21,4 @@
 - [海外想做 meoo 充值，哪个渠道用起来省心？ka-cn 实测体验](meoo-chongzhi.md)
 - [ka cn 跑路了吗？现在正规 kacn 平台实测](ka-cn-top.md)
 - [海外游戏充值国服手游端游怎么充？kacn 扫码代充实测](haiwai-youxi.md)
+- [海外快币充值：支付限制、渠道甄别与实操要点-kacn,ka-cn,ka cn海外充值](kuaibi-chongzhi.md)
